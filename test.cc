@@ -4,7 +4,6 @@ using namespace std;
 int mostSumNum(int* arr, int size) {
     int sum = 0;
 
-
     return sum;
 }
 
